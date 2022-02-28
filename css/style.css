@@ -1,0 +1,14 @@
+.btn-sm{
+	display: flex;
+	justify-content: center;
+}
+.card-title, .card-text{
+	text-align: center;
+}
+.navbar-collapse{
+	Justify-content: flex-end;
+}
+.logos{
+	display: flex;
+	justify-content: center;
+}
