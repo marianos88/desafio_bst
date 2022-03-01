@@ -6,9 +6,11 @@
 	text-align: center;
 }
 .navbar-collapse{
+	display: flex;
 	Justify-content: flex-end;
 }
 .logos{
 	display: flex;
 	justify-content: center;
 }
+
